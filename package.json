@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "author": "Mohammad Shahbaz Alam <mdsbzalam@gmail.com>",
   "dependencies": {
-    "gatsby": "^3.6.2",
+    "gatsby": "^4.25.7",
     "gatsby-plugin-gatsby-cloud": "^2.6.1",
     "gatsby-plugin-image": "^1.6.0",
     "gatsby-plugin-manifest": "^3.6.0",
